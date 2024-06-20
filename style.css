@@ -1,0 +1,27 @@
+element.style{
+    margin-left: auto;
+    display: block;
+    margin-right: auto;
+}
+
+h3{
+    color: #300247;
+  }
+body{
+    background-color: rgb(240, 214, 255);  
+}
+.center-header {
+    text-align: center;
+}
+h5{
+    color: #691099;
+  }
+h6{
+    color: #691099;
+  }
+a{
+    color: #2b1099;
+  }
+p1{
+    color: #2b1099;
+  }

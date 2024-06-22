@@ -15,9 +15,11 @@ h1{
     font-size: 50px
   }
 
-body{
-    background-color: #f0d6ff;  
-}
+body {
+    //background-image: url("https://img1.picmix.com/output/stamp/normal/8/7/3/2/512378_e3d36.gif");
+    background-color: #f0d6ff;
+    background-size: ;
+   }
 
 h2{
     text-align: center;
